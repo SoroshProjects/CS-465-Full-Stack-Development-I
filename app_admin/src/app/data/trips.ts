@@ -29,4 +29,4 @@ export const trips = [
       image: "reef3.jpg",
       description: "<p>At Claire's Reef..... donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non.",
     },
-  ];
+];
